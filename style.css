@@ -21,6 +21,10 @@ header img {
 	background-color: white;
 }
 
+.padded h1 {
+	padding: 100px 100px;
+}
+
 .padded h2 {
 	color: #38A88F;
 }
