@@ -150,12 +150,17 @@ p, ul, ol {
 }
 
 .credits h2 {
-	color: white;
-	font-size: 18px;
+	color: #fff;
+	font-size: 25px;
 }
 
 .credits a {
 	text-decoration: none;
+	color: #fff;
+}
+
+.credits a:hover{
+	color: gray;
 }
 
 .credits img {
